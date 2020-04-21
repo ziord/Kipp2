@@ -1,0 +1,6390 @@
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
+---------------------------
+Sublime Text
+---------------------------
+Backend configuration: "Remote hsdev@localhost:4567"
+
+Incompatible hsdev, detected version 0.0.0.0
+Version should be = 0.3.3.0 and < 0.3.4.0
+---------------------------
+OK   
+---------------------------
