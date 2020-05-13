@@ -1,7 +1,7 @@
 #include "BitInputStream.h"
 
 int BitInputStream::getBit(char buff, int pos) {
-	return  (buff & (1 << pos)) ? 1 : 0;   //use a mask to obtain the bit at offset pos
+	return  (buff & (1 << pos)) ? 1 : 0;  
 }
 
 int BitInputStream::readBit() {
